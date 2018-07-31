@@ -1,0 +1,154 @@
+Documented September 2004
+Updated 10/12/04
+
+CURRENT VERSION: NetworkDNA version 1.0.0, ESTABLISHED 09/24/04, MODIFIED 09/24/04
+Version number contains 3 pieces. 
+The first identifies overall structure, methodology, or work flow.
+The second identifies new templates added or minor changes to several existing templates.
+The third identifies modifications.
+Established date shows when the version was assembled. 
+No major changes will take place within a single version, only modifications such as spelling, grammatical, punctuation. 
+No new templates will be added to a version.
+Modified date shows when the last changes were applied
+Spelling
+Grammatical
+Punctuation
+
+
+NetworkDNA is the name associated to a single consolidation or packing of individual templates.
+This document will bring together all of the templates that existed and were grouped together under a single common Library.
+
+
+This document was put in place to help with long term evolution of the methodology and implementation of network documentation. As changes are made to NetworkDNA, you may not need to apply them if your environment does not utilize that aspect of documentation. 
+With each year that passes, the annual review of your documentation provides the ideal opportunity to implement any new elements and bring your binders up to date. This will be compounded with a compliance certificate that will validate your documentation as being credible. Network Documentation is only useful if it is kept up to date.
+
+
+CURRENT VERSION:
+Section 0 = Information
+000_Cover Page_ver1.3_Off
+000_Cover Page_ver1.3_On
+
+
+Section 1 = Infrastructure
+
+Section 2 = Server
+
+Section 3 = Workstation
+
+Section 4 = Print / Peripheral
+
+Section 5 = Environments / Applications
+
+Section 6 = Elements
+
+Section 7 = HOWTO's
+
+Section 8 = Standards / Policies
+
+
+
+
+PAST VERSION: NetworkDNA version 0.90, Frozen 09/24/04
+NOTE: There was no formal past version, so this area will remain empty until NetworkDNA Version 1.1
+
+Section 0 = Information
+
+Section 1 = Infrastructure
+
+Section 2 = Server
+
+Section 3 = Workstation
+
+Section 4 = Print / Peripheral
+
+Section 5 = Environments / Applications
+
+Section 6 = Elements
+
+Section 7 = HOWTO's
+
+Section 8 = Standards / Policies
+
+
+
+
+CHANGE LOG: List of files that changed and what changes took place
+NOTE: There was no formal past version, so this area will remain empty until NetworkDNA Version 1.1
+
+Section 0 = Information
+
+Section 1 = Infrastructure
+
+Section 2 = Server
+
+Section 3 = Workstation
+
+Section 4 = Print / Peripheral
+
+Section 5 = Environments / Applications
+
+Section 6 = Elements
+
+Section 7 = HOWTO's
+
+Section 8 = Standards / Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2004 Don Krause, NetworkDNA.org. All Rights Reserved.
+This document DOES NOT conform to the open source concept for modification purposes. If can be distributed freely, but not modified. This information only contains items about NetworkDNA.
+
+Version 1.0	NetworkDNA	networkdna.org
+NetworkDNA Version
+
+_______________________________________________________________________________________________________________________
+Page #  SEITE \*Arabisch 3 of  ANZSEITEN \*Arabisch 4	 DATEINAME 007_NetworkDNAVersion_ver1.0.doc	Printed:  AKTUALDAT \@"MMM t', 'jj" Oct 12, 04
+
+
+

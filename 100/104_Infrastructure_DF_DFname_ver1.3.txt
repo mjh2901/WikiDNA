@@ -1,0 +1,51 @@
+Documented August 2004
+Updated 10/28/04
+
+Facility Name (MDF, IDF1, IDF2):
+Location in building:
+Connections to other DF in building:
+	Facility name:		Connection type:	Speed:
+	Person / Organization responsible for connections:		Ph#
+
+Floor Plan – Rack locations, desks, D-marks, 
+
+Power – Power outlet map, Power Filtering, Surge protection to outlets, Capable wattage outlet capacity in room.
+
+MDF Data Jack Map (Labeling / identification explanation)
+
+Cable Management in MDF (ladder mgnt, J hooks, velcro tape (color))
+
+Phone Information
+number / extension – Instruction for giving to someone who needs to contact a person in the MDF.
+How to make a call, number to dial to get outside line. Codes if needed for long distance calls.
+Who to call for service:
+
+HVAC – Room temperature specification. 
+A/C info – how to turn on, off, adjust. Who to call for service
+
+
+
+
+
+
+
+
+Copyright © 2004 Don Krause
+
+This file is part of NetworkDNA.
+
+NetworkDNA is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+NetworkDNA is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details - "021_GNU General Public  License".
+
+You should have received a copy of the GNU General Public License along with NetworkDNA; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
+
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is included in the file entitled "020_GNU Free Documentation License".
+Version 1.3	NetworkDNA	networkdna.org
+Infrastructure: Distribution Facility
+
+_______________________________________________________________________________________________________________________
+Page #  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 104_Infrastructure_DF_DFname_ver1.3.doc	Printed:  AKTUALDAT \@"MMM t', 'jj" Nov 1, 04
+
+
+

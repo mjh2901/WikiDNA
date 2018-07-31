@@ -1,0 +1,86 @@
+Documented January 2005
+Updated 01/12/05
+
+NetworkDNA Server MOD #
+Model Doc created by:
+Date
+Purpose
+Retired (Y/N) / Date
+SRVMOD01
+
+
+
+
+SRVMOD02
+
+
+
+
+SRVMOD03
+
+
+
+
+SRVMOD04
+
+
+
+
+SRVMOD05
+
+
+
+
+SRVMOD06
+
+
+
+
+SRVMOD07
+
+
+
+
+SRVMOD08
+
+
+
+
+SRVMOD09
+
+
+
+
+
+
+The objective to using model assignments is to create a documenting practice that will allow us to establish the document once use many (DOUM) process.
+
+It is possible for a single organization that consists of multiple locations to have similar devices in many of the locations. We are triing to prevent duplication of efforts across locations.
+
+A long term goal is to get the manufacturers to help in our document implementations by providing the model information for us to incorporate into the networkDNA binder or database. This would aleviate the administrator or service provider from having to perform that task. All they would have to do is associate the model to a device in the device list, and note any deviations from the manufacturers defaults for that model or part number.
+
+
+
+
+
+
+
+Copyright © 2004 Don Krause
+
+This file is part of NetworkDNA.
+
+NetworkDNA is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+NetworkDNA is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details - "021_GNU General Public  License".
+
+You should have received a copy of the GNU General Public License along with NetworkDNA; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
+
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is included in the file entitled "020_GNU Free Documentation License".
+Version 1.0	NetworkDNA	networkdna.org
+Server: Model Tracker
+
+_______________________________________________________________________________________________________________________
+Page #  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 202_Server_Model_Tracker_ver1.0.doc	Printed:  AKTUALDAT \@"MMM' t, jjjj'" Jan t, jjjj
+
+
+

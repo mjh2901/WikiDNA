@@ -1,0 +1,21 @@
+Documented September 2004
+Updated 11/09/04
+Manufacturer:
+Product
+Version
+Revision / Patch Level
+
+Name (Directory / Tree):
+Organization:
+Organizational Units:
+
+NOTE:
+Leaf objects for users and groups are contained in Section 600 Elements of NetworkDNA.
+
+Version 1.0	Network DNA	 networkdna.org
+Environment: Directory
+
+Page  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 506_Environment_Directory_Ver1.0.doc	Printed:  AKTUALDAT \@"MM'/tt/jj'" 11/tt/jj
+
+
+

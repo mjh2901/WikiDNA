@@ -1,0 +1,32 @@
+Documented September 2004
+Updated 09/30/04
+
+Local Printers:
+	Printer Name:
+	Connection Type (Parallel, Serial, USB, IRF):
+	Driver Used:		Version:
+		PCL5e:(Yes / No),  PCL6:(Yes / No),  PS: (Yes / No)
+	Shared (It is highly recommended to utilize a dedicated network device to connect a printer to a network – Sharing 			introduces a hybrid local / network environment and complicates things): (Yes / No)
+
+Networked Printers:
+	Print Server Name:		(Server hosting printing services) 
+
+	Printer Name:		(Device info available on Printer / Peripheral detail sheet) 	
+		Internal or External Network connection device:
+			MFR:		Model:	s/n:
+		IP Address:		Subnet:		Gateway:
+		Telnet access password protected: (Yes / No)
+		Driver Used:		Version:
+			PCL5e:(Yes / No),  PCL6:(Yes / No),  PS: (Yes / No)
+		Access Rights (assign to groups):
+			Printer Managers:
+			Document Managers:		
+			Users:
+
+Version 1.0	Network DNA	 networkdna.org
+Printing Environment
+
+Page  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 503_Environment_Printing_Ver1.0.doc	Printed:  AKTUALDAT \@"MM'/tt/jj'" 09/tt/jj
+
+
+

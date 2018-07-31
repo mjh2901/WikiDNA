@@ -1,0 +1,23 @@
+Documented September 2004
+Updated 09/30/04
+
+Public Access (controlling a server or workstation from outside your network)
+	High Speed Internet connection:
+	   To Server:
+		Server Name:		Technology: (RDS, Terminal Services, SSL, Web Interface)
+			Domain Name or IP: server1support.domianname.com
+		Dial Up:
+			Phone number:
+	   To Workstation(s):
+		Global solution:
+		Individual solution:
+			Workstation Name:
+
+Private Access (controlling a server or workstation from inside your network)
+Version 1.0	Network DNA	 networkdna.org
+Remote Environment
+
+Page  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 503_Environment_Remote_Ver1.0.doc	Printed:  AKTUALDAT \@"MM'/tt/jj'" 09/tt/jj
+
+
+

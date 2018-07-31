@@ -1,0 +1,31 @@
+Documented September 2004
+Updated 11/09/04
+
+Local Mail Server (YES / NO):
+
+If yes
+	Server Name:
+	Manufacturer:
+	Version:
+	Patch Level:
+
+	Post Office Name:
+	File Location:
+	Maintenance Cycle:
+	Settings / Configuration:
+
+If no
+	Service Provider:
+	Account Name:
+	Password:
+	Mail server (POP):
+	Mail server (SMTP):
+	Setting:
+
+Version 1.0	Network DNA	 networkdna.org
+Environment: Mail
+
+Page  SEITE \*Arabisch 1 of  ANZSEITEN \*Arabisch 1	 DATEINAME 510_Environment_Mail_Ver1.0.doc	Printed:  AKTUALDAT \@"MM'/tt/jj'" 11/tt/jj
+
+
+
