@@ -1,3 +1,4 @@
-Welcome
-Projects being worked on
-[[000:060_information_index_ver1.0|WikiDNA]] Network Documentation for Mear Mortals
+Welcome to WIkiDNA
+
+This is your start page, it also links to the table of contents.
+
