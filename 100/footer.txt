@@ -1,4 +1,0 @@
---------------------About this page--------------------\\
-**This file is part of WikiDNA**\\
-Document Last Updated: ~~LASTMOD~~\\
-~~NOCACHE~~
