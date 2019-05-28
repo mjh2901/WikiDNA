@@ -7,8 +7,9 @@ Prerequisets:
 Working Dokuwiki install
 Following DokuWiki Extensions
   ckgedit, WikiDNA is edited with this inline HTML editor
-  Lastmod Plugin, Plases the last modifed date on the pages for purposes of printing out and updating physial binders.
-  
+  Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
+  HeaderFooter Plugin, Places the Header and Footer on all pages
+
 Install:
 1. Clone this reposity into the doluwiki:data:pages:wikidna
 2. Go to your point browser at your wiki
