@@ -1,13 +1,13 @@
-Documented August 2004 Updated 08/18/04
+==== Non-Network Information: Global Location Assignment List ====
 
-This binder contains information for location # 1
+**This binder contains information for location # 1**
 
-Location # Location Name Contact Name Phone # Address Time Zone 1
+Location #\\
+Location Name\\
+Contact Name\\
+Phone #\\
+Address:\\
+Time Zone 1
 
-222-111-0000 City, State CST 2
-
-——————————————————NOTES———————————————————-\\
-**This file is part of WikiDNA** \\
-Document Last Updated: ~~LASTMOD~~\\
-Section-0 Page-1
+——————–Notes——————–
 

@@ -15,3 +15,14 @@ Install:
 2. Go to your point browser at your wiki
 3. Start editing every page to document your infrastructure
 
+Standards:
+1. Header Size
+	Start Page Heading
+	Main Section Page Heading2
+	Regular Page within section Heading3
+
+Editing:
+
+Notes:
+   Footer text is specific to each section, within the section folder you will find a _footer.txt file.  Edit this file to change the footer on every page within that section.  In order to change all the footers globaly you must edit each of the 10 _footer files within the numbered section folders.
+

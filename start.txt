@@ -5,8 +5,8 @@ This is your start page, it also links to the table of contents.
 Table Of Contents
 
 ^#^Section $^Description|
-|[[:000:000_section_0_contents|000]]|Section 0|No Network Information|
-|100| | |
+|[[:000:000_section_0_contents|000]]|Section 0|Non Network Information|
+|[[:100:100_section_1_contents|100]]|Section 1|Infrastructure|
 |200| | |
 |300| | |
 |400| | |
@@ -15,6 +15,9 @@ Table Of Contents
 |700| | |
 |800| | |
 |900| | |
+
+—notes—\\
+Edit the SideBar [[:sidebar|Here]]
 
 \\
 
