@@ -1,0 +1,10 @@
+==== Infrastructure: Device List ====
+
+^Device Name^S/N^Date of Purchase^Ref Model^Ref Addendum^IP1^Mac address^IP2^Password|
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+
+\\
+
