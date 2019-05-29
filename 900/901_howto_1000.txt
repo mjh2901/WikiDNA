@@ -1,0 +1,10 @@
+==== How To's & Tasks: How To ====
+
+Title:\\
+Category: Template, DesktopOS, ServerOS, Application, Anti-Virus, Spyware, Backup\\
+Overview:
+
+Synopsis:
+
+The actual How-To
+

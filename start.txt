@@ -8,13 +8,13 @@ This is your start page, it also links to the table of contents.
 |[[:000:start|000]]|Section 0|Non Network Information|
 |[[:100:start|100]]|Section 1|Infrastructure|
 |[[:200:start|200]]|Section 2|Server|
-|300|Section 3|Workstation|
-|400|Section 4|Printer / Peripheral|
-|500|Section 5|Environments / Applications|
-|600|Section 6|Elements|
-|700|Section 7|Complete Mystery|
-|800|Section 8|Standards / Policies|
-|900|Section 9|How To's|
+|[[:300:start|300]]|Section 3|Workstation|
+|[[:400:start|400]]|Section 4|Printer / Peripheral|
+|[[:500:start|500]]|Section 5|Environments / Applications|
+|[[:600:start|600]]|Section 6|Elements|
+|[[:700:start|700]]|Section 7|Complete Mystery|
+|[[:800:start|800]]|Section 8|Standards / Policies|
+|[[:900:start|900]]|Section 9|How To's & Tasks|
 
 \\
 

@@ -2,11 +2,11 @@
 [[:000:start|000 Section 0]]\\
 [[:100:start|100 Section 1]]\\
 [[:200:start|200 Section 2]]\\
-[[:300:300_section_3_contents|300 Section 3]]\\
-[[:400:400_section_4_contents|400 Section 4]]\\
-[[:500:500_section_5_contents|500 Section 5]]\\
-[[:600:600_section_6_contents|600 Section 6]]\\
-[[:700:700_section_7_contents|700 Section 7]]\\
-[[:800:800_section_8_contents|800 Section 8]]\\
-[[:900:900_section_9_contents|900 Section 9]]
+[[:300:start|300 Section 3]]\\
+[[:400:start|400 Section 4]]\\
+[[:500:start|500 Section 5]]\\
+[[:600:start|600 Section 6]]\\
+[[:700:start|700 Section 7]]\\
+[[:800:start|800 Section 8]]\\
+[[:900:start|900 Section 9]]
 
