@@ -1,7 +1,7 @@
 [[:start|Home]]\\
-[[:000:000_section_0_contents|000 Section 0]]\\
-[[:100:100_section_1_contents|100 Section 1]]\\
-[[:200:200_section_2_contents|200 Section 2]]\\
+[[:000:start|000 Section 0]]\\
+[[:100:start|100 Section 1]]\\
+[[:200:start|200 Section 2]]\\
 [[:300:300_section_3_contents|300 Section 3]]\\
 [[:400:400_section_4_contents|400 Section 4]]\\
 [[:500:500_section_5_contents|500 Section 5]]\\

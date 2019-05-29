@@ -5,9 +5,9 @@ This is your start page, it also links to the table of contents.
 ==== Table Of Contents ====
 
 ^#^Section $^Description|
-|[[:000:000_section_0_contents|000]]|Section 0|Non Network Information|
-|[[:100:100_section_1_contents|100]]|Section 1|Infrastructure|
-|200|Section 2|Server|
+|[[:000:start|000]]|Section 0|Non Network Information|
+|[[:100:start|100]]|Section 1|Infrastructure|
+|[[:200:start|200]]|Section 2|Server|
 |300|Section 3|Workstation|
 |400|Section 4|Printer / Peripheral|
 |500|Section 5|Environments / Applications|
