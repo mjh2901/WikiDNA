@@ -1,11 +1,5 @@
 ===== WikiDNA: Elements =====
 
-Sample Company Inc.
-
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
-Paper Binder Last Print Date:
-
 ^Section#^Doc #^Description|
 |700|[[.:701_users|701]]|Users|
 |700|[[.:702_groups|702]]|Groups|
