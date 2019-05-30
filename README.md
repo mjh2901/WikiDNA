@@ -4,7 +4,7 @@ WikiDNA is a set of templates designed to create proper network documentation fo
 
 WikiDNA is designed to be dropped into a DokuWiki install allowing any person or team to secure and start documenting.  It is possible to cloan this into any standard webserver, however all editing would have to be done by hand.
 
-For installation simply clone this repository into your /dokuwiki/data/pages directory and you are ready to go.
+For installation simply clone the WikiDNA repository into your /dokuwiki/data/pages directory and you are ready to go.
 
 ### Prerequisites:
 Working Dokuwiki install
