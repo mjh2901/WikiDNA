@@ -3,16 +3,9 @@
 Printers and Peripherals installed
 
 ^Section#^Doc #^Description|
-|000|[[.:001_global_location_assignment_list|001]]|Global Location Assignment List|
-|000|[[.:002_contact_information|002]]|Contact Information|
-|000|[[.:010_wikidna_overview|010]]|WikiDNA Overview|
-|000|[[.:020_gnu_free_documentation_license|020]]|GNU Free Documentation License|
-|000|[[.:020_gnu_free_documentation_license|021]]|GNU General Public License|
-|000|[[.:030_table_of_contents|030]]|Table of Contents|
-|000|[[.:040_readme|040]]|Readme|
-|000|[[.:050_wikidna_version|050]]|WikiDNA Version|
-|000|[[.:060_information_index|060]]|Information|
-|000|[[.:070_location_overview|070]]|Location Overview|
+|400|[[.:401_peripheral_devicelist|401]]|Peripheral Device List|
+|400|[[.:402_peripheral_model_wormod01|402]]|Peripheral Model|
+|400|[[.:403_peripheral_deviation_perdev0101|403]]|Perfieral Deviation|
 
 \\
 

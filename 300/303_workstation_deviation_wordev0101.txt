@@ -1,0 +1,20 @@
+==== Workstations: Deviation ====
+
+Workstation Deviation Identification: WORDEV0101
+
+Note: WORDEVxxyy: xx=model document this deviation is bound to. yy=the number of deviation from the model.
+
+Hardware Deviations:
+
+Additional memory:\\
+Additional HD:\\
+Additional Cards:
+
+Software Deviations:
+
+Configuration Deviations:
+
+Startup:
+
+Reasons for the deviations:
+
