@@ -1,12 +1,12 @@
 [[:start|Home]]\\
-[[:000:start|000 Section 0]]\\
-[[:100:start|100 Section 1]]\\
-[[:200:start|200 Section 2]]\\
-[[:300:start|300 Section 3]]\\
-[[:400:start|400 Section 4]]\\
-[[:500:start|500 Section 5]]\\
-[[:600:start|600 Section 6]]\\
+[[:000:start|000 Non-Network Information]]\\
+[[:100:start|100 Infrastructure]]\\
+[[:200:start|200 Server]]\\
+[[:300:start|300 Workstation]]\\
+[[:400:start|400 Printer & Peripheral]]\\
+[[:500:start|500 Environments & Apps]]\\
+[[:600:start|600 Elements]]\\
 [[:700:start|700 Section 7]]\\
-[[:800:start|800 Section 8]]\\
-[[:900:start|900 Section 9]]
+[[:800:start|800 Standards & Policies]]\\
+[[:900:start|900 HowTo's & Tasks]]
 

@@ -1,10 +1,11 @@
 ====== WikiDNA ======
 
-This is your start page, it also links to the table of contents.
+This is your start page, it also links to the table of contents.\\
+Return to the WikiDNA [[https://mjh2901.github.io/WikiDNA/|Project Page]]
 
 ==== Table Of Contents ====
 
-^#^Section $^Description|
+^#^Section^Description|
 |[[:000:start|000]]|Section 0|Non Network Information|
 |[[:100:start|100]]|Section 1|Infrastructure|
 |[[:200:start|200]]|Section 2|Server|

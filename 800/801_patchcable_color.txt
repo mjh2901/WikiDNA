@@ -1,0 +1,15 @@
+==== Standards & Policies: Patch Cable Color ====
+
+^Color^Purpose^Type|
+|Red|Server|Cat VII|
+|Blue|Workstation|Cat VI|
+|Green|Peripheral / Printer|Cat Vplus|
+|Gray|Phone|Cat II|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+\\
+
