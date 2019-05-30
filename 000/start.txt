@@ -13,7 +13,7 @@ Paper Binder Last Print Date:
 |000|[[.:020_gnu_free_documentation_license|020]]|GNU Free Documentation License|
 |000|[[.:021_gnu_general_public_license|021]]|GNU General Public License|
 |000|[[:start|030]]|Table of Contents|
-|000|[[:readme|040]]|Readme|
+|000|[[https://mjh2901.github.io/WikiDNA/|040]]|Readme (External Link)|
 |000|[[:sidebar|050]]|SideBar|
 
 \\

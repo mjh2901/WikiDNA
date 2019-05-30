@@ -6,14 +6,14 @@ Return to the WikiDNA [[https://mjh2901.github.io/WikiDNA/|Project Page]]
 ==== Table Of Contents ====
 
 ^#^Section^Description|
-|[[:000:start|000]]|Section 0|Non Network Information|
+|[[:000:start|000]]|Section 0|Non-Network Information|
 |[[:100:start|100]]|Section 1|Infrastructure|
-|[[:200:start|200]]|Section 2|Server|
-|[[:300:start|300]]|Section 3|Workstation|
-|[[:400:start|400]]|Section 4|Printer / Peripheral|
-|[[:500:start|500]]|Section 5|Environments / Applications|
-|[[:600:start|600]]|Section 6|Elements|
-|[[:700:start|700]]|Section 7|Complete Mystery|
+|[[:200:start|200]]|Section 2|Servers|
+|[[:300:start|300]]|Section 3|Workstations|
+|[[:400:start|400]]|Section 4|Printers / Peripherals|
+|[[:500:start|500]]|Section 5|Environments|
+|[[:600:start|600]]|Section 6|Applications|
+|[[:700:start|700]]|Section 7|Elements|
 |[[:800:start|800]]|Section 8|Standards / Policies|
 |[[:900:start|900]]|Section 9|How To's & Tasks|
 
