@@ -1,4 +1,6 @@
-===== WikiDNA: Elements =====
+===== WikiDNA: 700 Elements =====
+
+Elements programmed into your environment
 
 ^Section#^Doc #^Description|
 |700|[[.:701_users|701]]|Users|

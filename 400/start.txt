@@ -1,10 +1,6 @@
-===== WikiDNA: Non-Network Information =====
+===== WikiDNA: 400 Printers & Peripherals =====
 
-Sample Company Inc.
-
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
-Paper Binder Last Print Date:
+Printers and Peripherals installed
 
 ^Section#^Doc #^Description|
 |000|[[.:001_global_location_assignment_list|001]]|Global Location Assignment List|

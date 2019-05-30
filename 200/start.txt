@@ -1,10 +1,4 @@
-===== WikiDNA: Non-Network Information =====
-
-Sample Company Inc.
-
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
-Paper Binder Last Print Date:
+===== WikiDNA: 200 Servers =====
 
 ^Section#^Doc #^Description|
 |200|[[.:201_server_devicelist|201]]|Server Device List|

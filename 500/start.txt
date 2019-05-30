@@ -1,22 +1,24 @@
-===== WikiDNA: Non-Network Information =====
+===== WikiDNA: 500 Environments =====
 
-Sample Company Inc.
-
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
-Paper Binder Last Print Date:
+Running environments
 
 ^Section#^Doc #^Description|
-|000|[[.:001_global_location_assignment_list|001]]|Global Location Assignment List|
-|000|[[.:002_contact_information|002]]|Contact Information|
-|000|[[.:010_wikidna_overview|010]]|WikiDNA Overview|
-|000|[[.:020_gnu_free_documentation_license|020]]|GNU Free Documentation License|
-|000|[[.:020_gnu_free_documentation_license|021]]|GNU General Public License|
-|000|[[.:030_table_of_contents|030]]|Table of Contents|
-|000|[[.:040_readme|040]]|Readme|
-|000|[[.:050_wikidna_version|050]]|WikiDNA Version|
-|000|[[.:060_information_index|060]]|Information|
-|000|[[.:070_location_overview|070]]|Location Overview|
+|500|[[.:501_anti_virus|501]]|Anti-Virus|
+|500|[[.:502_backup|502]]|Backup|
+|500|[[.:503_business_continuity|503]]|Business Continuity|
+|500|[[.:504_dhcp|504]]|DHCP|
+|500|[[.:505_dns|505]]|DNS|
+|500|[[.:506_directory|506]]|Directory|
+|500|[[.:507_file_system|507]]|File System|
+|500|[[.:508_imaging|508]]|Imaging|
+|500|[[.:509_internet|509]]|Internet|
+|500|[[.:510_mail|510]]|Mail|
+|500|[[.:511_power_protection|511]]|Power Protection|
+|500|[[.:512_printing|512]]|Printing|
+|500|[[.:513_remote|513]]|Remote Access|
+|500|[[.:514_security|514]]|Security|
+|500|[[.:515_vpn|515]]|VPN|
+|500|[[.:516_webpage|516]]|WebPage|
 
 \\
 
