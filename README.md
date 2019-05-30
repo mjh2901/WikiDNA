@@ -25,10 +25,12 @@ Following DokuWiki Extensions
 	- Main Section Page **Heading2**	
 	- Regular Page within section **Heading3**
   
-### Editing:
-
 ### Notes:
 Footer text is specific to each section, within the section folder you will find a _footer.txt file.  Edit this file to change the footer on every page within that section.  In order to change all the footers globaly you must edit each of the 10 _footer files within the numbered section folders.
 
 ### Demo:
 [https://wikidna.bigdoglabs.com](https://wikidna.bigdoglabs.com)
+
+### How To Use:
+Navigate to a page click edit and enter the your information.
+Most of the templates are single use, in cases where a templage needs to be used several times, go into the webserver find the page in the coresponding numbered folder, duplicate and rename generally by simply upping the three digit number at the start of the filename by one digit, then retrun to the sections navigation page and add a link to the new page.
