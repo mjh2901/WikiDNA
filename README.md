@@ -7,8 +7,7 @@ WikiDNA is designed to be dropped into a DokuWiki install allowing any person or
 For installation simply clone the WikiDNA repository into your /dokuwiki/data/pages directory and you are ready to go.
 
 ### Prerequisites:
-Working Dokuwiki install
-Following DokuWiki Extensions
+Working Dokuwiki install & the following DokuWiki extensions
   - ckgedit, WikiDNA is edited with this inline HTML editor
   - Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
   - HeaderFooter Plugin, Places the Header and Footer on all pages
