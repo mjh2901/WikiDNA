@@ -1,4 +1,4 @@
---------------------About this page--------------------
-<br><b>This file is part of WikiDNA</b>
-<br>Document Last Updated: ~~LASTMOD~~
-~~NOCACHE~~
+--------------------About this page--------------------\\
+Document Last Updated: ~~LASTMOD~~\\
+**This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\
+~NOCACHE~~

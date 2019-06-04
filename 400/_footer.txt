@@ -1,4 +1,5 @@
 --------------------About this page--------------------\\
-**This file is part of WikiDNA**\\
+[[400:start|Section 400 Printers & Peripherals]]\\
 Document Last Updated: ~~LASTMOD~~\\
-~~NOCACHE~~
+**This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\
+~NOCACHE~~
