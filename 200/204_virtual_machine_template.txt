@@ -1,0 +1,15 @@
+==== Server: Virtual Machine ====
+
+Servername:\\
+DNS:\\
+IP Address:
+
+OS:\\
+Ram:\\
+Hard DIsks:
+
+Root Login:\\
+Password:
+
+Services:
+

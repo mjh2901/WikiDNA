@@ -1,10 +1,11 @@
 ===== WikiDNA: 200 Servers =====
 
 ^Section#^Doc #^Description|
-|200|[[.:201_server_devicelist|201]]|Server Device List|
+|200|[[.:201_physical_servers|201]]|Physical Servers|
 |200|[[.:202_server_model_tracker|202]]|Server Model Tracker|
 |200|[[.:202_server_model_servmod|202]]|Server Mod|
 |200|[[.:203_server_deviation_serdev|203]]|Server Deviations|
+|200|[[.:204_virtual_machines|204]]|Virtual Machines|
 
 \\
 
