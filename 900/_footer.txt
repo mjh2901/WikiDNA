@@ -1,5 +1,5 @@
 --------------------About this page--------------------\\
-[[900:start|Section 900 HotTo's & Tasks]]\\
+[[900:start|Section 900 How To's & Tasks]]\\
 Document Last Updated: ~~LASTMOD~~\\
 **This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\
 
