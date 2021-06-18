@@ -1,4 +1,4 @@
-==== Infrastructure: Lan Protocol ====
+==== 106: Lan Protocol ====
 
 Protocols running on the wire (TCP / IP, IPX / SPX, Netbui):\\
 TCP/IP Information Version (4, 6):
@@ -28,6 +28,4 @@ Gateway: 172.0.0.1
 | | | | |
 | | | | |
 | | | | |
-
-\\
 
