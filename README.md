@@ -20,7 +20,7 @@ Working Dokuwiki install & the following DokuWiki extensions
 2. Go to your point browser at your wiki
 3. Start editing every page to document your infrastructure
 
-### Specifc Settings
+### Specific Settings
 1.  In config/dokuwiki.php change the defer_js setting from 1 to 0 (This allows the menu to work)
 2.  In config/dokuwiki.php change the useheading setting from 0 to 1 (This allows the menu to to show page headers intead of namespace)
 
