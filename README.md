@@ -12,11 +12,17 @@ Working Dokuwiki install & the following DokuWiki extensions
   - Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
   - HeaderFooter Plugin, Places the Header and Footer on all pages
   - Copy Page Plugin, Allows quick duplication of a page
+  - SubPages, Creates teh page listing within folders
+  - Indexmenu, Creates the menu in the sidebar
 
 ### Install
 1. Clone this reposity into the doluwiki:data:pages:wikidna
 2. Go to your point browser at your wiki
 3. Start editing every page to document your infrastructure
+
+### Specifc Settings
+1.  In config/dokuwiki.php change the defer_js setting from 1 to 0 (This allows the menu to work)
+2.  In config/dokuwiki.php change the useheading setting from 0 to 1 (This allows the menu to to show page headers intead of namespace)
 
 ### Standards:
 1. Header Size

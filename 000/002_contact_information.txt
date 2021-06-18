@@ -1,4 +1,4 @@
-==== Non-Network Information: Contact Information ====
+==== 002: Contact Information ====
 
 Location Name:\\
 Street address\\
@@ -27,3 +27,4 @@ Text Driving Directions to IT HW to HW to HW to HW to Address.
 Insert a graphical map and/or image of building here
 
 ~~NOCACHE~~
+
