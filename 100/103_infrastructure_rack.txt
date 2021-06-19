@@ -1,4 +1,4 @@
-==== 103: Racks ====
+===== 103: Racks =====
 
 Rack Name:\\
 Rack Location, distribution facility name:\\

@@ -1,4 +1,4 @@
-==== 003: WikiDNA Overview ====
+===== 003: WikiDNA Overview =====
 
 This one-page document is intended to introduce you to the purpose and value of documentation with the WikiDNA methodology. WikiDNA is an open source effort, taking advantage of the public communities to create a single common manner for documenting any complete computing environment. For more information about WikiDNA go to our [[https://github.com/mjh2901/WikiDNA|GitHub Project Page]]//. //
 

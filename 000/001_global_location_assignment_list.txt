@@ -1,4 +1,4 @@
-==== 001: Global Location Assignment List ====
+===== 001: Global Location Assignment List =====
 
 **This binder contains information for location # 1**
 

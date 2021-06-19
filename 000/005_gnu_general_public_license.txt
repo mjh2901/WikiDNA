@@ -1,4 +1,4 @@
-==== 005: GNU General Public License ====
+===== 005: GNU General Public License =====
 
 ==== GNU GENERAL PUBLIC LICENSE ====
 

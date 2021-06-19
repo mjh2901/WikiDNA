@@ -1,0 +1,16 @@
+===== Physical Server Template =====
+
+Server Model Identification (ex: INFMOD01): SERMOD01
+
+Service(s) Type (File, Print, Mail, A/V, Backup, Database, IDS, Firewall, Proxy):
+
+Manufacturer:
+
+Product:
+
+Model Number: Part Number:
+
+Warranty Duration:
+
+Local Support Phone Number: Contact Name: Manufacturer Support Phone Number: Contract # Contact Name:
+

@@ -1,0 +1,4 @@
+--------------------About this page--------------------\\
+[[100:start|Section 100 Infrastructure]]\\
+Document Last Updated: ~~LASTMOD~~\\
+**This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\

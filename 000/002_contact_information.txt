@@ -1,4 +1,4 @@
-==== 002: Contact Information ====
+===== 002: Contact Information =====
 
 Location Name:\\
 Street address\\

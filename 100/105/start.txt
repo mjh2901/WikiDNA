@@ -1,10 +1,4 @@
-==== 105: Device List ====
+===== 105: Device List =====
 
 ~~SUBPAGES~~
-
-^Device Name^S/N^Date of Purchase^Ref Model^Ref Addendum^IP1^Mac address^IP2^Password|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
 

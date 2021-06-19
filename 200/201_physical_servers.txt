@@ -1,8 +1,0 @@
-==== Server: Physical Servers ====
-
-^Name^IP^Building^Room^Rack|
-|[[.:2010_physical_server_template|Server]]|10.0.5.1|1|1|1|
-| | | | | |
-
-\\
-
