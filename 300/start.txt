@@ -1,12 +1,11 @@
-===== WikiDNA: 300 Workstations =====
+===== 300: Workstations =====
 
 Workstations
 
-^Section#^Doc #^Description|
-|300|[[.:301_workstation_devicelist|301]]|Workstation Device List|
-|300|[[.:302_workstation_model_wormod01|302]]|Workstation Model|
-|300|[[.:303_workstation_deviation_wordev0101|303]]|Workstation Model Deviation|
-
-\\
-
 ~~SUBPAGES~~
+
+^Section#^Doc #^Description|
+|300|[[:300:301_workstation_devicelist|301]]|Workstation Device List|
+|300|[[:300:302_workstation_model_wormod01|302]]|Workstation Model|
+|300|[[:300:303_workstation_deviation_wordev0101|303]]|Workstation Model Deviation|
+

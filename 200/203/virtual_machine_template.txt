@@ -1,4 +1,6 @@
-==== Server: Virtual Machine ====
+===== Virtual Machine Template =====
+
+Host:
 
 Servername:\\
 DNS:\\

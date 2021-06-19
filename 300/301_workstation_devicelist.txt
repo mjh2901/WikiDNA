@@ -1,4 +1,4 @@
-==== Workstations: Device List ====
+==== 401: Device List ====
 
 Identification for Device Model type Deviation from Mfr Model defaults Device Name location+catagory+ ID+MOD+DEV S/N Date of Purchase IP1 MAC address or Purpose WORIDE01 WORMOD01 WORDEV0101 LOCWOR010101
 
@@ -23,6 +23,4 @@ Ref Model is an incremented ID per different hardware model type. This allows do
 Deviation from Mfr Model defaults allows for a document to list the things that have been changed to a particular piece of hardware while maintaining the benefit of using the documentation that completes a majority of information needed about the piece of equipment. This gets its name from being a WORkstation type item with a DEViation. The 4 digits represent the model this deviation is an extension of and the iteration this deviation is in a potential list of many different changes to different pieces of hardware. The first two digits are the referenced model and the last two are the unique deviation number for that model number.
 
 This method of naming devices allows the label on the device to show what location this device should be at if this device deviates from the manufacturer defaults or not, What model document to reference and what device this is in the device list.
-
-\\
 
