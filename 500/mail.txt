@@ -1,4 +1,4 @@
-==== Environments: Mail ====
+===== Mail =====
 
 Local Mail Server (YES / NO):
 
@@ -9,6 +9,7 @@ Server Name:
 Manufacturer:
 Version:
 Patch Level:
+
 </code>
 
 <code>
@@ -16,6 +17,7 @@ Post Office Name:
 File Location:
 Maintenance Cycle:
 Settings / Configuration:
+
 </code>
 
 If no
@@ -27,5 +29,6 @@ Password:
 Mail server (POP):
 Mail server (SMTP):
 Setting:
+
 </code>
 

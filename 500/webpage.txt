@@ -1,4 +1,4 @@
-==== Environments: Website ====
+===== Website =====
 
 Who hosts the page:\\
 Annual cost for hosting:\\

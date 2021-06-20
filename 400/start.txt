@@ -1,12 +1,11 @@
-===== WikiDNA: 400 Printers & Peripherals =====
+===== 400: Printers & Peripherals =====
 
 Printers and Peripherals installed
 
 ^Section#^Doc #^Description|
-|400|[[.:401_peripheral_devicelist|401]]|Peripheral Device List|
-|400|[[.:402_peripheral_model_wormod01|402]]|Peripheral Model|
-|400|[[.:403_peripheral_deviation_perdev0101|403]]|Perfieral Deviation|
-
-\\
+|400|[[:400:401_peripheral_devicelist|401]]|Peripheral Device List|
+|400|[[:400:402_peripheral_model_wormod01|402]]|Peripheral Model|
+|400|[[:400:403_peripheral_deviation_perdev0101|403]]|Perfieral Deviation|
 
 ~~SUBPAGES~~
+

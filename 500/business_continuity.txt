@@ -1,4 +1,4 @@
-==== Environment: Business Continuity ====
+===== Business Continuity =====
 
 The generic purpose of business continuity is to keep end users productive in the event of failure or disaster.
 

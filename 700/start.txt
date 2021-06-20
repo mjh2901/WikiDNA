@@ -1,14 +1,13 @@
-===== WikiDNA: 700 Elements =====
+===== 700: Elements =====
 
 Elements programmed into your environment
 
 ^Section#^Doc #^Description|
-|700|[[.:701_users|701]]|Users|
-|700|[[.:702_groups|702]]|Groups|
-|700|[[.:703_scripts|703]]|Scripts|
-|700|[[.:704_licenses|704]]|Licenses|
-|700|[[.:705_queues|705]]|Queues|
-
-\\
+|700|[[:700:701_users|701]]|Users|
+|700|[[:700:702_groups|702]]|Groups|
+|700|[[:700:703_scripts|703]]|Scripts|
+|700|[[:700:704_licenses|704]]|Licenses|
+|700|[[:700:705_queues|705]]|Queues|
 
 ~~SUBPAGES~~
+

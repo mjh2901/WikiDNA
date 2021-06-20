@@ -1,4 +1,4 @@
-==== Environments: File System ====
+===== File System =====
 
 The structure to be followed at this location
 

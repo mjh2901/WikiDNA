@@ -1,3 +1,5 @@
+===== Application Template =====
+
 Applications: App name
 
 Application Name:

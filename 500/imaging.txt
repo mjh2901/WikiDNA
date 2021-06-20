@@ -1,4 +1,4 @@
-==== Environment: Imaging ====
+===== Imaging =====
 
 Network Imaging solution (YES / NO):
 

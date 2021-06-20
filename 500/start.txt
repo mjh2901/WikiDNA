@@ -1,25 +1,6 @@
-===== WikiDNA: 500 Environments =====
+===== 500: Environments =====
 
 Running environments
 
-^Section#^Doc #^Description|
-|500|[[.:501_anti_virus|501]]|Anti-Virus|
-|500|[[.:502_backup|502]]|Backup|
-|500|[[.:503_business_continuity|503]]|Business Continuity|
-|500|[[.:504_dhcp|504]]|DHCP|
-|500|[[.:505_dns|505]]|DNS|
-|500|[[.:506_directory|506]]|Directory|
-|500|[[.:507_file_system|507]]|File System|
-|500|[[.:508_imaging|508]]|Imaging|
-|500|[[.:509_internet|509]]|Internet|
-|500|[[.:510_mail|510]]|Mail|
-|500|[[.:511_power_protection|511]]|Power Protection|
-|500|[[.:512_printing|512]]|Printing|
-|500|[[.:513_remote|513]]|Remote Access|
-|500|[[.:514_security|514]]|Security|
-|500|[[.:515_vpn|515]]|VPN|
-|500|[[.:516_webpage|516]]|WebPage|
-
-\\
-
 ~~SUBPAGES~~
+

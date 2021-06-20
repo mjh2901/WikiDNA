@@ -1,4 +1,4 @@
-==== Environments: Power Protection ====
+===== Power Protection =====
 
 Battery Info:\\
 Minute's batteries are expected to last:

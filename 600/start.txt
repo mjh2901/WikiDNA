@@ -1,14 +1,6 @@
-===== WikiDNA: 600 Applications =====
+===== 600: Applications =====
 
 Applications in use
 
-^Section#^Doc #^Application|
-|600|[[.:601_appname|601]]|Application|
-|600|602| |
-|600|603| |
-|600|604| |
-|600|605| |
-
-\\
-
 ~~SUBPAGES~~
+
