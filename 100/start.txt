@@ -2,17 +2,5 @@
 
 Defines the physical infrastructure of this location.
 
-^Section#^Doc #^Description|
-|100|[[:100:101_infrastructure_medium|101]]|Medium|
-|100|[[:100:102_infrastructure_patchpanel|102]]|Patch Panels|
-|100|[[:100:103_infrastructure_rack|103]]|Racks|
-|100|[[:100:104_infrastructure_mdf_dfname|104]]|MDFs|
-|100|[[100:105:device_template|110]]|Models|
-|100|[[100:105:start.txt|111]]|Device List|
-|100|[[100:106_infrastructure_topology|120]]|Topology|
-|100|[[100:107_infrastructure_lanprotocol|121]]|Lan Protocols|
-|100|[[100:107_infrastructure_wan|122]]|Wan|
-|100|[[100:108_infrastructure_security|130]]|Security|
-
 ~~SUBPAGES~~
 
