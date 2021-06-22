@@ -39,4 +39,5 @@ Footer text is specific to each section, within the section folder you will find
 
 ### How To Use:
 Navigate to a page click edit and enter the your information.
-Most of the templates are single use, in cases where a templage needs to be used several times, go into the webserver find the page in the coresponding numbered folder, duplicate and rename generally by simply upping the three digit number at the start of the filename by one digit, then retrun to the sections navigation page and add a link to the new page.
+
+Sections where a Template File is going to be used several times (such as servers) select the template and use the "Copy this page" button.  When asked to Enter new-age's ID, only change the word template leave the numbers and colons alone (example 900:901:template) The preceding numbers and colons represent the folder structure changing them will move the file into a different location.  Once the page is created click edit change the header and add your information.  The menues will automatically update themselves to reflect the new page.
