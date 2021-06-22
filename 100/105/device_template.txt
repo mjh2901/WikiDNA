@@ -1,8 +1,8 @@
-===== Device Template =====
+===== Network Device Template =====
 
 Infrastructure Model Identification (ex: INFMOD01):
 
-Device Type (Router, Firewall, Switch, Hub, Modem):
+Device Type (Router, Firewall, Switch, Gateway, Other):
 
 Manufacturer:
 

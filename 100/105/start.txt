@@ -1,4 +1,4 @@
-===== 105: Device List =====
+===== 105: Network Device List =====
 
 ~~SUBPAGES~~
 
