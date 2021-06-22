@@ -1,4 +1,4 @@
-==== How-To's & Tasks: Weekly Tasks ====
+===== 903: Weekly Tasks =====
 
 Weekly Task List
 
@@ -12,6 +12,4 @@ Weekly Task List
 |7| | | |
 |8| | | |
 |9| | | |
-
-\\
 

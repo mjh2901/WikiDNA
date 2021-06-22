@@ -2,13 +2,5 @@
 
 How To's used by IT staff & Task lists.
 
-^Section#^Doc #^Description|
-|900|[[:900:901_howto_1000|901]]|How To|
-|900|[[:900:910_daily_tasks|910]]|Daily Tasks|
-|900|[[:900:911_weekly_tasks|911]]|Weekly Tasks|
-|900|[[:900:912_monthly_tasks|912]]|Monthly Tasks|
-|900|[[:900:913_quarterly_tasks|913]]|Quarterly Tasks|
-|900|[[:900:914_yearly_tasks|914]]|Yearly Tasks|
-
 ~~SUBPAGES~~
 

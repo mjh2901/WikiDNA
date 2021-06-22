@@ -1,8 +1,8 @@
-==== How-To's & Tasks: Yearly Tasks ====
+===== 906: Yearly Tasks =====
 
-Yearly Task List\\
+Yearly Task List
 
-^#^Compete By^System^Task^How-To|
+^#^Competed By^System^Task^How-To|
 |1| | | | |
 |2| | | | |
 |3| | | | |
@@ -12,6 +12,4 @@ Yearly Task List\\
 |7| | | | |
 |8| | | | |
 |9| | | | |
-
-\\
 

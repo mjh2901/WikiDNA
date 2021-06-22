@@ -1,6 +1,6 @@
-==== How-To's & Tasks: Monthly Tasks ====
+===== 905: Quarterly Tasks =====
 
-Monthly Task List
+Quarterly Task List
 
 ^#^System^Task^How-To|
 |1| | | |
@@ -12,6 +12,4 @@ Monthly Task List
 |7| | | |
 |8| | | |
 |9| | | |
-
-\\
 

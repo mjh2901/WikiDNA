@@ -1,6 +1,6 @@
-==== How-To's & Tasks: Daily Tasks ====
+===== 904: Monthly Tasks =====
 
-Daily Task List
+Monthly Task List
 
 ^#^System^Task^How-To|
 |1| | | |
@@ -12,6 +12,4 @@ Daily Task List
 |7| | | |
 |8| | | |
 |9| | | |
-
-\\
 
