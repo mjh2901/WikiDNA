@@ -1,0 +1,5 @@
+--------------------About this page--------------------\\
+[[000:start|Section 000 Non-Network Information]]\\
+Document Last Updated: ~~LASTMOD~~\\
+**This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\
+~~NOCACHE~~
