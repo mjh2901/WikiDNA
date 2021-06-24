@@ -3,7 +3,7 @@
 This is your start page, it also links to the table of contents.\\
 Return to the WikiDNA [[https://mjh2901.github.io/WikiDNA/|Project Page]]
 
-==== Table Of Contents ====
+==== Table Of Contents  ====
 
 ^#^Section^Description|
 |[[:000:start|000]]|Section 0|Non-Network Information|
@@ -16,6 +16,4 @@ Return to the WikiDNA [[https://mjh2901.github.io/WikiDNA/|Project Page]]
 |[[:700:start|700]]|Section 7|Elements|
 |[[:800:start|800]]|Section 8|Standards / Policies|
 |[[:900:start|900]]|Section 9|How To's & Tasks|
-
-\\
 
