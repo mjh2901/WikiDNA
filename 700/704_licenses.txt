@@ -1,4 +1,4 @@
-==== Elements: Licenses ====
+==== 704: Licenses ====
 
 ^Category^Product^S/N^Product Key^# of Licenses^Notes^OS^Server|
 |Backup| | | | | | | |
@@ -16,6 +16,4 @@
 |Malware Detection| | | | | | | |
 |Mail Client| | | | | | | |
 |PDF Creator| | | | | | | |
-
-\\
 

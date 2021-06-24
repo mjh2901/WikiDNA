@@ -1,4 +1,4 @@
-==== How To's & Tasks: How To ====
+==== How To's: Template ====
 
 Title:\\
 Category: Template, DesktopOS, ServerOS, Application, Anti-Virus, Spyware, Backup\\
