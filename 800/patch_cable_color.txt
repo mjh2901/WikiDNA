@@ -1,4 +1,4 @@
-==== Patch Cable Color ====
+===== Patch Cable Color =====
 
 ^Color^Purpose^Type|
 |Red|Server|Cat VII|
