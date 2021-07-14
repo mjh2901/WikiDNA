@@ -29,7 +29,7 @@ Working Dokuwiki install & the following DokuWiki extensions
 	
 	- Start Page **Heading**	
 	- Main Section Page **Heading2**	
-	- Regular Page within section **Heading3**
+	- Regular Page within section **Heading2**
   
 ### Notes:
 Footer text is specific to each section, within the section folder you will find a _footer.txt file.  Edit this file to change the footer on every page within that section.  In order to change all the footers globaly you must edit each of the 10 _footer files within the numbered section folders.
