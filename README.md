@@ -16,7 +16,7 @@ Working Dokuwiki install & the following DokuWiki extensions
   - Indexmenu, Creates the menu in the sidebar
 
 ### Install
-1. Clone this reposity into the doluwiki:data:pages:wikidna
+1. Clone this repository into the dokuwiki:data:pages (yes this replaces the pages directory)
 2. Go to your point browser at your wiki
 3. Start editing every page to document your infrastructure
 
@@ -35,7 +35,7 @@ Working Dokuwiki install & the following DokuWiki extensions
 Footer text is specific to each section, within the section folder you will find a _footer.txt file.  Edit this file to change the footer on every page within that section.  In order to change all the footers globaly you must edit each of the 10 _footer files within the numbered section folders.
 
 ### Demo:
-[https://wikidna.bigdoglabs.com](https://wikidna.bigdoglabs.com)
+[https://wikidna-demo.bigdoglabs.com](https://wikidna-demo.bigdoglabs.com)
 
 ### How To Use:
 Navigate to a page click edit and enter the your information.
