@@ -1,4 +1,4 @@
-===== 402: Model 100 =====
+===== 302: Model 100 =====
 
 Workstation Model Identification (ex: INFMOD01): WORMOD01
 
