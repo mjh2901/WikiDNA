@@ -12,8 +12,8 @@ Working Dokuwiki install & the following DokuWiki extensions
   - Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
   - Footer Plugin, Places the Header and Footer on all pages
   - Copy Page Plugin, Allows quick duplication of a page
-  - SubPages, Creates the page listing within folders
   - Indexmenu, Creates the menu in the sidebar
+  - (do not use SubPages any more the plugin can cause dokuwiki to fail, we are working on an alternative)
 
 ### Install
 1. Clone this repository into the dokuwiki:data:pages (yes this replaces the pages directory)
