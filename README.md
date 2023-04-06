@@ -44,3 +44,5 @@ Navigate to a page click edit and enter the your information.
 
 Sections where a Template File is going to be used several times (such as servers) select the template and use the "Copy this page" button.  When asked to Enter new-age's ID, only change the word template leave the numbers and colons alone (example 900:901:template) The preceding numbers and colons represent the folder structure changing them will move the file into a different location.  Once the page is created click edit change the header and add your information.  The menues will automatically update themselves to reflect the new page.
 
+## WikiDNA Webiste ##
+[https://wikidna.bigdoglabs.com](https://wikidna.bigdoglabs.com)
