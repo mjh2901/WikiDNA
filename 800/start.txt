@@ -2,5 +2,5 @@
 
 Standards and Policies
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 

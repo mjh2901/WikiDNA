@@ -1,4 +1,4 @@
 ===== 200: Servers =====
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 

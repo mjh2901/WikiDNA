@@ -7,5 +7,5 @@ Printers and Peripherals installed
 |400|[[:400:402_peripheral_model_wormod01|402]]|Peripheral Model|
 |400|[[:400:403_peripheral_deviation_perdev0101|403]]|Perfieral Deviation|
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 

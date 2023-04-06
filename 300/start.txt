@@ -2,7 +2,7 @@
 
 Workstations
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 
 ^Section#^Doc #^Description|
 |300|[[:300:301_workstation_devicelist|301]]|Workstation Device List|

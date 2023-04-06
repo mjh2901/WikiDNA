@@ -2,5 +2,5 @@
 
 Elements programmed into your environment
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 

@@ -2,5 +2,5 @@
 
 Running environments
 
-~~SUBPAGES~~
+{{indexmenu>.#1}}
 
