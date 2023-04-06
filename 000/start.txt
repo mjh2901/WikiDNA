@@ -6,4 +6,4 @@ Binder Home: Internal Wiki\\
 Paper Binder Location:\\
 Paper Binder Last Print Date:
 
-~~SUBPAGES~~
+{{indexmenu>..#1|js navbar nocookie}}
