@@ -2,5 +2,6 @@
 
 Defines the physical infrastructure of this location.
 
-~~SUBPAGES~~
+{{indexmenu>..#1|navbar nocookie}}
 
+~~CLEARCACHE~~
