@@ -1,1 +1,1 @@
-{{indexmenu>..#1|js navbar nocookie}}
+{{indexmenu>.#1|js navbar nocookie skipfile=/sidebar/}}
