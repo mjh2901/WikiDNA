@@ -1,3 +1,7 @@
+## WikiDNA Update##
+
+WikiDNA is going through a simplification.  After working on wikidna for a number of years I have decided to remove a number of plugin dependices and in the process remove HTML.  New users will be welcome to add ckgedit and use the enhanced html formatting in their docs but the base installation will be initially setup using markup.  This will allow the docs to be moved more easily to other platforms.  Future releases will have two catagoires "Prerequisites" which will house the only true dependancy Indexmenu and "Optional Plugins" which will include all the nice to have features.
+
 ## Welcome to WikiDNA
 
 WikiDNA is a set of templates designed to create proper network documentation for any small or large enterprise network.  These templates are a starting point for documenting your network.  
@@ -39,3 +43,4 @@ Footer text is specific to each section, within the section folder you will find
 Navigate to a page click edit and enter the your information.
 
 Sections where a Template File is going to be used several times (such as servers) select the template and use the "Copy this page" button.  When asked to Enter new-age's ID, only change the word template leave the numbers and colons alone (example 900:901:template) The preceding numbers and colons represent the folder structure changing them will move the file into a different location.  Once the page is created click edit change the header and add your information.  The menues will automatically update themselves to reflect the new page.
+
