@@ -2,6 +2,6 @@
 
 Defines the physical infrastructure of this location.
 
-{{indexmenu>..#1|navbar nocookie}}
+{{indexmenu>.#1}}
 
 ~~NOCACHE~~
