@@ -1,4 +1,4 @@
-===== 600: Applications =====
+==== 600: Applications ====
 
 Applications in use
 
