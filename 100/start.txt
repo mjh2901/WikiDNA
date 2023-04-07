@@ -4,4 +4,4 @@ Defines the physical infrastructure of this location.
 
 {{indexmenu>..#1|navbar nocookie}}
 
-~~CLEARCACHE~~
+~~NOCACHE~~

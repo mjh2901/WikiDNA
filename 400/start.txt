@@ -9,3 +9,4 @@ Printers and Peripherals installed
 
 {{indexmenu>.#1}}
 
+~~NOCACHE~~

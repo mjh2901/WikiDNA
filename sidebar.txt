@@ -1,1 +1,2 @@
-{{indexmenu>.#1|js navbar nocookie skipfile=/sidebar|license/}}
+{{indexmenu>.#1|js navbar nocookie skipfile=/sidebar|license|binder/}}
+~~NOCACHE~~

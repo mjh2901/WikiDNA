@@ -4,3 +4,4 @@ Applications in use
 
 {{indexmenu>.#1}}
 
+~~NOCACHE~~

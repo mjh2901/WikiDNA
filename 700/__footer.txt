@@ -1,4 +1,0 @@
---------------------About this page--------------------\\
-[[700:start|Section 700 Elements]]\\
-Document Last Updated: ~~LASTMOD~~\\
-**This file is part of [[https://mjh2901.github.io/WikiDNA|WikiDNA]]**\\
