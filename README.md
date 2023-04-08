@@ -1,4 +1,4 @@
-## WikiDNA Update##
+## WikiDNA Update
 
 WikiDNA is going through a simplification.  After working on wikidna for a number of years I have decided to remove a number of plugin dependices and in the process remove HTML.  New users will be welcome to add ckgedit and use the enhanced html formatting in their docs but the base installation will be initially setup using markup.  This will allow the docs to be moved more easily to other platforms.  Future releases will have two catagoires "Prerequisites" which will house the only true dependancy Indexmenu and "Optional Plugins" which will include all the nice to have features.
 
