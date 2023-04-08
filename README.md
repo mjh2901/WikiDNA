@@ -10,12 +10,15 @@ WikiDNA is designed to be dropped into a DokuWiki install allowing any person or
 
 For installation simply clone the WikiDNA repository into your /dokuwiki/data/pages directory and you are ready to go.
 
-### Prerequisites:
+### Required Prerequisites:
 Working Dokuwiki install & the following DokuWiki extensions
-  - ckgedit, WikiDNA is edited with this inline HTML editor
-  - Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
-  - Copy Page Plugin, Allows quick duplication of a page
   - Indexmenu, Creates the menu in the sidebar
+
+### Optional Prereqisies:
+  - ckgedit, WikiDNA can be edited with this visual inline HTML editor
+  - Lastmod Plugin, Places the last modifed date on the pages for purposes of printing out and updating physial binders.
+  - Copy Page Plugin, Allows quick duplication of a page especially usefull in sections where a template is used to create many pages.
+
 
 ### Install
 1. Clone this repository into the dokuwiki:data:pages (yes this replaces the pages directory)
@@ -29,12 +32,12 @@ Working Dokuwiki install & the following DokuWiki extensions
 ### Standards:
 1. Header Size
 	
-	- Start Page **Heading**	
+	- Start Page ==== Heading ====
 	- Main Section Page **Heading2**	
 	- Regular Page within section **Heading2**
   
 ### Notes:
-Footer text is specific to each section, within the section folder you will find a _footer.txt file.  Edit this file to change the footer on every page within that section.  In order to change all the footers globaly you must edit each of the 10 _footer files within the numbered section folders.
+
 
 ### Demo:
 [https://wikidna-demo.bigdoglabs.com](https://wikidna-demo.bigdoglabs.com)
