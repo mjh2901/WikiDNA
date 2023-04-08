@@ -12,7 +12,7 @@ For installation simply clone the WikiDNA repository into your /dokuwiki/data/pa
 
 ### Required Prerequisites:
 Working Dokuwiki install & the following DokuWiki extensions
-  - Indexmenu, Creates the menu in the sidebar
+  - Indexmenu, Creates the menu in the sidebar and index pages
 
 ### Optional Prereqisies:
   - ckgedit, WikiDNA can be edited with this visual inline HTML editor
